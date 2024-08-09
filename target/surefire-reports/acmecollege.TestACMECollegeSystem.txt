@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: acmecollege.TestACMECollegeSystem
+-------------------------------------------------------------------------------
+Tests run: 40, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 6.033 s <<< FAILURE! - in acmecollege.TestACMECollegeSystem
+acmecollege.TestACMECollegeSystem.test15_all_club_memberships_adminrole  Time elapsed: 0.454 s  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: is <200>
+     but: was <500>
+	at acmecollege.TestACMECollegeSystem.test15_all_club_memberships_adminrole(TestACMECollegeSystem.java:381)
+
